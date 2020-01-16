@@ -1,0 +1,35 @@
+{
+  "name": "skylark-style",
+  "description": "Official Studio Skylark JavaScript style",
+  "version": "1.0.0",
+  "author": "Nicklas Wei <nicklas@studioskylark.com>",
+  "license": "MIT",
+  "homepage": "https://studioskylark.com/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:studioskylark/javascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/studioskylark/javascript/issues"
+  },
+  "keywords": [
+    "Skylark Style",
+    "Studio Skylark",
+    "studioskylark",
+    "style",
+    "style guide",
+    "code guide",
+    "code style",
+    "eslint"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-vue": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
