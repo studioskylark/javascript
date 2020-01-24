@@ -1,19 +1,20 @@
 {
   "name": "skylark-style",
-  "description": "Official Studio Skylark JavaScript style",
-  "version": "1.0.0",
+  "description": "Official Studio Skylark style",
+  "version": "0.1.0",
   "author": "Nicklas Wei <nicklas@studioskylark.com>",
   "license": "MIT",
   "homepage": "https://studioskylark.com/",
   "repository": {
     "type": "git",
-    "url": "git@github.com:studioskylark/javascript.git"
+    "url": "git@github.com:studioskylark/skylark-style.git"
   },
   "bugs": {
-    "url": "https://github.com/studioskylark/javascript/issues"
+    "url": "https://github.com/studioskylark/skylark-style/issues"
   },
   "keywords": [
     "Skylark Style",
+    "skylark-style",
     "Studio Skylark",
     "studioskylark",
     "style",
